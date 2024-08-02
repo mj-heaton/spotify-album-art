@@ -1,0 +1,6 @@
+venv
+.env
+*.pyc
+*.pyo
+*.pyd
+playlist_covers/
